@@ -130,3 +130,5 @@ python tools/export_stats.py sessions --out stats.csv
 ## License
 
 MIT
+
+如果这个项目对你有用，点个 Star 就是最好的支持。
